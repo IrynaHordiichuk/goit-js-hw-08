@@ -1,0 +1,1 @@
+This repository was created for learning about local storage, throttle and Simplelightbox library
